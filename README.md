@@ -21,9 +21,13 @@ A hidden area for all game read and write. No trace can be found by any means
 
 
 1.Remove driver installation history
-
 2.Use compatible certificate
-
 3.There is no third party in 100% assembly, and code is generated dynamically through assembly
 
 
+
+
+# How do you use it?
+
+1.Please install the driver before opening steam or game
+2.
