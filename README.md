@@ -30,4 +30,3 @@ A hidden area for all game read and write. No trace can be found by any means
 # How do you use it?
 
 1.Please install the driver before opening steam or game
-2.
